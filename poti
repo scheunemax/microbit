@@ -2,7 +2,6 @@ from microbit import *
 
 counter_set = 0
 display.show(str(counter_set))
-glass_image = Image("09090:09090:09990:00900:09990")
 
 while True:
 
